@@ -27,6 +27,8 @@ game-loft is a website for searching game info.
 
 # 4. SiteMap:
 
+> ![img.png](sitemap.png)
+
 > Login Dashboard
 > Avatar : Profile | Sign Out
 > About Us: 
