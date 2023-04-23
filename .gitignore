@@ -8,11 +8,6 @@ log/
 !log/.gitkeep
 tmp/
 !tmp/.gitkeep
-vendor
-docs
-
-composer.lock
-console
 Dockerfile
 dockerfile.sh
 server
