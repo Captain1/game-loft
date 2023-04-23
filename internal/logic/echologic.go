@@ -24,6 +24,5 @@ func NewEchoLogic(ctx context.Context, svcCtx *svc.ServiceContext) *EchoLogic {
 }
 
 func (l *EchoLogic) Echo(req *types.Request) (resp *types.Response, err error) {
-	// todo: add your logic here
-	return
+	return resp, nil
 }
